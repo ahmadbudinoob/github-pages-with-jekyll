@@ -1,10 +1,4 @@
-
 ---
-title: "Learning Go Framework"
-date: 2022-02-28
----
-
-# Learning Go Framework
-
-- Beego
+title: "2022-02-28-my-first-blog-post.md"
+date: 2022-03-1
 ---
